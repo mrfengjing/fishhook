@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name             = "fishhook"
-  spec.version          = "0.2"
+  spec.version          = "0.3"
   spec.license          = { :type => "BSD", :file => "LICENSE" }
   spec.homepage         = 'https://github.com/facebook/fishhook'
   spec.author           = { "Facebook, Inc." => "https://github.com/facebook" }
